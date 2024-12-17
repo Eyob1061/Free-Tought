@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-import IMG1 from "../../assets/consistency.jpeg";
+import IMG1 from "../../assets/business.jpg";
 import IMG2 from "../../assets/Motivation.jpeg";
 import IMG3 from "../../assets/process.jpeg";
 import IMG4 from "../../assets/mindset.jpeg";
@@ -12,10 +12,10 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "The Power Of Consistency",
+      title: "The Power Of Business",
       img: IMG1,
       description:
-        "Small, consistent actions can lead to big results over time. Focus on building habits that compound and improve your life gradually.",
+        "The power of business refers to the ability of companies to influence and shape society through their economic activity, including creating jobs, driving innovation, impacting policy, and affecting consumer behavior, essentially wielding significant power within a market and sometimes even on a global scale.",
       
     },
     {
